@@ -95,16 +95,54 @@ goal: Build useful products
 </p>
 
 
+
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Java, Python, HTML and CSS"/>
+</p>
+
 ### 📊 Data Analytics & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
+  &nbsp;
+  <img src="https://images.ctfassets.net/te2janzw7nut/7Eq5Ka08qm8SSCRrzxzZqB/c59c8e54d042b383fabff63604acf472/Microsoft-Power-BI_logo.webp" alt="Power BI" width="48" height="48"/>
+  &nbsp;
+  <img src="https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png" alt="Microsoft Excel" width="48" height="48"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge" alt="Power Query"/>
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+  <img src="https://geo-python.github.io/site/_images/pandas_logo.png" alt="Pandas" width="90" height="48"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/960px-NumPy_logo_2020.svg.png" alt="NumPy" width="90" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### 🌐 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
+</p>
+
+
+
 
 
 ### 🤖 AI & Data Science
