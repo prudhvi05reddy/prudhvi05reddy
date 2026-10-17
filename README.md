@@ -84,46 +84,46 @@ goal: Build useful products
 
 ---
 
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Java, Python, HTML, CSS"/>
 </p>
+
 
 ### 📊 Data Analytics & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Database technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <br/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
 </p>
 
-### 🤖 AI, Machine Learning & Data Science
+
+### 🤖 AI & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" alt="Machine learning tools"/>
-  <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
-### 🌐 Development & Cloud
+### 🌐 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nextjs,tailwind,nodejs,gcp" alt="Development and cloud tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
   <br/>
   <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-  <img src="https://img.shields.io/badge/REST_APIs-525252?style=for-the-badge" alt="REST APIs"/>
 </p>
+
 
 ---
 
