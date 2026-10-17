@@ -84,19 +84,6 @@ goal: Build useful products
 
 ---
 
-
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Java, Python, HTML, CSS"/>
-</p>
-
-
-
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -137,27 +124,6 @@ goal: Build useful products
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
-</p>
-
-
-
-
-
-### 🤖 AI & Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### 🌐 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
-  <br/>
   <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
 </p>
@@ -260,22 +226,6 @@ Projects exploring resume assistance and AI-powered conversational experiences.
   <b>Explore more:</b>
   <a href="https://github.com/prudhvi05reddy?tab=repositories">All my repositories →</a>
 </p>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prudhvi05reddy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi05reddy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-  <br/>
-
-  <img width="75%" src="https://streak-stats.demolab.com?user=prudhvi05reddy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
 
 ---
 
