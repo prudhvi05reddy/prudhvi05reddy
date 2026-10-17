@@ -1,0 +1,27 @@
+
+name: Generate Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: prudhvi05reddy
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Publish snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_branch: output
+          publish_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
