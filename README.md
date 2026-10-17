@@ -171,7 +171,7 @@ A coding-focused project built as part of my software development and programmin
 - Project-based development
 - Continuous improvement and learning
 
-**Tech:** Add your project's actual technologies here.
+**Tech:** Power Bi, Excel, SahrePoint, Power Automate
 
 </td>
 <td width="50%" valign="top">
@@ -212,7 +212,7 @@ Projects exploring resume assistance and AI-powered conversational experiences.
 - AI chatbot interaction through Telegram
 - Practical automation and AI integration
 
-**Tech:** Add the exact technologies used in each project.
+**Tech:** Python, Telegram Bot API, Gemini LLM
 
 </td>
 </tr>
